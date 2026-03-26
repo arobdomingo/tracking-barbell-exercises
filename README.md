@@ -1,3 +1,3 @@
-## Data Science Project Template
+## Tracking Barbell Exercises
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+A  project that classifies barbell exercises and counts repetitions given accelerometer and gyroscope data.
